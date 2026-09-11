@@ -1,23 +1,18 @@
-baseURL: "https://zzsqwq.github.io/academic-pages-demo/" 
+baseURL: "https://mshafqat0.github.io/" 
 languageCode: 'en-us'  # http://www.rssboard.org/rss-language-codes
 DefaultContentLanguage: "en" # The default contentlanguage, see languages part.
-title: "Zs's Homepage" # default title
+title: "Shafqat Ali" # default title
 theme: "hugo-academia"
-canonifyURLs : true # if use absolute path.
+canonifyURLs : false # if use absolute path.
 
 languages:
   en:
     languageName: ":uk:"
     weight: 1
     contentDir: content/en
-  zh-cn:
-    languageName: ":cn:"
-    weight: 2
-    title: "Zs's Homepage"
-    contentDir: content/zh-cn
     params:
-      author: "战战硕"
-      author_bio: "一名来自西北工业大学的本科生，对机器人及计算机视觉感兴趣。"
+      author: "Shafqat Ali"
+      author_bio: "Introduction"
       menu:
         Index:
           name: "Index"
@@ -80,7 +75,7 @@ params:
         icon: fab fa-telegram
         url: https://t.me/zzsqwq
         weight: 2
-      Envelope: #E-mail
+      Envelope: #
         icon: fas fa-envelope
         url: mailto:trizsqwq@gmail.com
         weight: 3
