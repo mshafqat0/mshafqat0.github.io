@@ -1,7 +1,7 @@
 baseURL: "https://mshafqat0.github.io/" 
 languageCode: 'en-us'  # http://www.rssboard.org/rss-language-codes
 DefaultContentLanguage: "en" # The default contentlanguage, see languages part.
-title: "Shafqat Ali" # default title
+title: "Dr. Shafqat Ali Siyyal" # default title
 theme: "hugo-academia"
 canonifyURLs : false # if use absolute path.
 
@@ -11,7 +11,7 @@ languages:
     weight: 1
     contentDir: content/en
     params:
-      author: "Shafqat Ali"
+      author: "Dr. Shafqat Ali Siyyal"
       author_bio: "Introduction"
       menu:
         Index:
