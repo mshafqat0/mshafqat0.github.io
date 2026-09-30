@@ -9,9 +9,6 @@ My work integrates model-based control, robust and predictive control strategies
 
 My methodological approach combines dynamical system modeling, Lyapunov stability analysis, invariant-set characterization and reachability analysis to evaluate safety constraints and closed-loop performance under disturbances, faults and cyberattacks.
 
-**This is the index page which organized with the posts you write in markdown files.(with Front matter true)**
-
-
 
 ### Publications
 
