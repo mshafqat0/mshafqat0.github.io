@@ -125,7 +125,7 @@ params:
   cv_dl:
     enable: true
     dir: /attaches/CV.pdf
-    description: Zs's CV
+    description: "Download my CV"
 
   # Box-shadow
   # display box-shadow on page or not
