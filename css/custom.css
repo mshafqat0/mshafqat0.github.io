@@ -1,0 +1,5 @@
+#about-me + p,
+#about-me + p + p,
+#about-me + p + p + p {
+  text-align: justify;
+}
