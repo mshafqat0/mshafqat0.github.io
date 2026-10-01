@@ -69,7 +69,7 @@ params:
     links:
       Github: 
         icon: fab fa-github 
-        url: https://github.com/zzsqwq
+        url: "https://github.com/mshafqat0"
         weight: 1
       Telegram:
         icon: fab fa-telegram
@@ -77,7 +77,7 @@ params:
         weight: 2
       Envelope: #
         icon: fas fa-envelope
-        url: mailto:trizsqwq@gmail.com
+        url: "mailto:mshafqat00@gmail.com"
         weight: 3
       RSS:
         icon: fas fa-rss
@@ -98,9 +98,9 @@ params:
       # StackOverflow: 
       #   icon: fab fa-stack-overflow
       #   url:
-      # Linkedin: 
-      #   icon: fab fa-linkedin
-      #   url:
+      Linkedin: 
+         icon: fab fa-linkedin
+         url: "linkedin.com/in/shafqat-ali-siyyal-6b2861139"
       # Weibo: 
       #   icon: fab fa-weibo
       #   url:
@@ -112,14 +112,10 @@ params:
     links:
       Google Scholar:
         name: Google Scholar
-        url:  "/"
+        url:  "https://scholar.google.com/citations?hl=en&user=nq_8QTgAAAAJ"
         icon: "fas fa-graduation-cap"
         weight: 1
-      ORCID:
-        name: ORCID
-        url: "/"
-        icon: "fab fa-orcid"
-        weight: 2
+      
 
   # CV download link
   cv_dl:
