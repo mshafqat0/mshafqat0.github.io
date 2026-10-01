@@ -138,6 +138,7 @@ params:
   CDN_USE:
     css:
       - /css/style.css
+      -/css/custom.css
       - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
     js:
       - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
